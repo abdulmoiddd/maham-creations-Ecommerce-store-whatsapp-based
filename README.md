@@ -1,4 +1,4 @@
-# Visuura
+# maham-creations-store
 
 A Next.js project with Tailwind CSS and a custom global theme.
 
