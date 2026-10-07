@@ -10,7 +10,7 @@ export default function CheckoutButton() {
   const [isProcessing, setIsProcessing] = useState(false);
 
   // Replace with your actual business WhatsApp number (country code only, no + or 00)
-  const BUSINESS_NUMBER = "923001234567";
+  const BUSINESS_NUMBER = "923369487441";
 
   const handleCheckout = async () => {
     if (cart.length === 0) {
